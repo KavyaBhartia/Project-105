@@ -1,0 +1,59 @@
+body 
+{
+background-color: rgb(9, 255, 0);
+color: white;
+}
+.heading 
+{
+    width: 80%;
+    font-size: 30px;
+}
+.name_of_objects
+{
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+}
+#camera 
+{
+    border: 2px solid rgb(0, 17, 255);
+    width: 350px;
+    height: 300px;
+}
+#result
+{
+    border: 2px solid rgb(0, 17, 255);
+    width: 350px;
+    height: 300px;
+}
+#result_name 
+{
+    font-family: fantasy;
+    color: rgb(255, 0, 0);
+    font-size: 15px;
+}
+#result_object_accuracy
+{
+    font-family: fantasy;
+    color: rgb(255, 0, 0);
+    font-size: 15px;
+}
+#Father 
+{
+    width: 70px;
+    height: 70px;
+}
+#Mother 
+{
+    width: 70px;
+    height: 70x;
+}
+#Kavya 
+{
+    width: 70px;
+    height: 70px;
+}
+#Ishaan 
+{
+    width: 70px;
+    height: 70px;
+}
